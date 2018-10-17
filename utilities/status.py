@@ -32,27 +32,9 @@ class Status(SeleniumDriver):
                 else:
                     self.resultList.append("FAILED")
                     self.log.error("### VERIFICATION FAILED :: + " + resultMessage)
-            # else:
-            #     self.resultList.append("FAIL")
-            #     self.log.error("### VERIFICATION FAILED :: + " + resultMessage)
         except:
-            # self.resultList.append("FAIL")
-            # self.log.error("### Exception Occurred !!!")
             self.resultList.append('FAILED')
             self.log.error('### Exception Occurred !!!' + resultMessage)
-    # # Copied
-    # def setResult(self, result, resultMessage):
-    #     try:
-    #         if result is not None:
-    #             if result:
-    #                 self.resultList.append('PASS')
-    #                 self.log.info('### VERIFICATION SUCCESSFUL :: + ' + resultMessage)
-    #             else:
-    #                 self.resultList.append('FAILED')
-    #                 self.log.error('### VERIFICATION FAILED :: + ' + resultMessage)
-    #     except:
-    #         self.resultList.append('FAILED')
-    #         self.log.error('### Exception Occurred !!!' + resultMessage)
 
     def mark(self, result, resultMessage):
         """
