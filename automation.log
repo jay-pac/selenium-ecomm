@@ -1,0 +1,182 @@
+10/11/2018 02:44:18 PM - LoginPage - INFO: Element found with locator: body.index.hide-left-column.hide-right-column.lang_en:nth-child(2) div.header-container div.nav:nth-child(2) div.container div.row nav:nth-child(1) div.header_user_info:nth-child(1) > a.login and locatorType: css
+10/11/2018 02:44:19 PM - LoginPage - INFO: Clicked on element with locator: body.index.hide-left-column.hide-right-column.lang_en:nth-child(2) div.header-container div.nav:nth-child(2) div.container div.row nav:nth-child(1) div.header_user_info:nth-child(1) > a.login locatorType: css
+10/11/2018 02:44:19 PM - LoginPage - INFO: Element found with locator: email and locatorType: id
+10/11/2018 02:44:19 PM - LoginPage - INFO: Sent data on element with locator: email locatorType: id
+10/11/2018 02:44:19 PM - LoginPage - INFO: Element found with locator: passwd and locatorType: id
+10/11/2018 02:44:19 PM - LoginPage - INFO: Sent data on element with locator: passwd locatorType: id
+10/11/2018 02:44:19 PM - LoginPage - INFO: Element found with locator: SubmitLogin and locatorType: id
+10/11/2018 02:44:20 PM - LoginPage - INFO: Clicked on element with locator: SubmitLogin locatorType: id
+10/11/2018 02:44:20 PM - Status - ERROR: ### VERIFICATION FAILED :: + Title is incorrect
+10/11/2018 02:44:20 PM - LoginPage - INFO: Element found with locator: //span[contains(text(),'Test Tester')] and locatorType: xpath
+10/11/2018 02:44:20 PM - LoginPage - INFO: Element Found
+10/11/2018 02:44:20 PM - Status - INFO: ### VERIFICATION SUCCESSFUL :: + Login failed
+10/11/2018 02:44:20 PM - Status - ERROR: tests_validLogin ### TEST FAILED
+10/11/2018 02:45:35 PM - LoginPage - INFO: Element found with locator: body.index.hide-left-column.hide-right-column.lang_en:nth-child(2) div.header-container div.nav:nth-child(2) div.container div.row nav:nth-child(1) div.header_user_info:nth-child(1) > a.login and locatorType: css
+10/11/2018 02:45:36 PM - LoginPage - INFO: Clicked on element with locator: body.index.hide-left-column.hide-right-column.lang_en:nth-child(2) div.header-container div.nav:nth-child(2) div.container div.row nav:nth-child(1) div.header_user_info:nth-child(1) > a.login locatorType: css
+10/11/2018 02:45:36 PM - LoginPage - INFO: Element found with locator: email and locatorType: id
+10/11/2018 02:45:36 PM - LoginPage - INFO: Sent data on element with locator: email locatorType: id
+10/11/2018 02:45:36 PM - LoginPage - INFO: Element found with locator: passwd and locatorType: id
+10/11/2018 02:45:36 PM - LoginPage - INFO: Sent data on element with locator: passwd locatorType: id
+10/11/2018 02:45:36 PM - LoginPage - INFO: Element found with locator: SubmitLogin and locatorType: id
+10/11/2018 02:45:37 PM - LoginPage - INFO: Clicked on element with locator: SubmitLogin locatorType: id
+10/11/2018 02:45:37 PM - Status - ERROR: ### VERIFICATION FAILED :: + Title is incorrect
+10/11/2018 02:45:37 PM - LoginPage - INFO: Element found with locator: //span[contains(text(),'Test Tester')] and locatorType: xpath
+10/11/2018 02:45:37 PM - LoginPage - INFO: Element Found
+10/11/2018 02:45:37 PM - Status - INFO: ### VERIFICATION SUCCESSFUL :: + Login failed
+10/11/2018 02:45:37 PM - Status - INFO: tests_validLogin #### TEST PASSED
+10/11/2018 02:57:56 PM - LoginPage - INFO: Element found with locator: body.index.hide-left-column.hide-right-column.lang_en:nth-child(2) div.header-container div.nav:nth-child(2) div.container div.row nav:nth-child(1) div.header_user_info:nth-child(1) > a.login and locatorType: css
+10/11/2018 02:57:57 PM - LoginPage - INFO: Clicked on element with locator: body.index.hide-left-column.hide-right-column.lang_en:nth-child(2) div.header-container div.nav:nth-child(2) div.container div.row nav:nth-child(1) div.header_user_info:nth-child(1) > a.login locatorType: css
+10/11/2018 02:57:57 PM - LoginPage - INFO: Element found with locator: email and locatorType: id
+10/11/2018 02:57:57 PM - LoginPage - INFO: Sent data on element with locator: email locatorType: id
+10/11/2018 02:57:57 PM - LoginPage - INFO: Element found with locator: passwd and locatorType: id
+10/11/2018 02:57:57 PM - LoginPage - INFO: Sent data on element with locator: passwd locatorType: id
+10/11/2018 02:57:57 PM - LoginPage - INFO: Element found with locator: SubmitLogin and locatorType: id
+10/11/2018 02:57:58 PM - LoginPage - INFO: Clicked on element with locator: SubmitLogin locatorType: id
+10/11/2018 02:57:58 PM - Status - ERROR: ### VERIFICATION FAILED :: + Title is incorrect
+10/11/2018 02:57:58 PM - LoginPage - INFO: Element found with locator: //span[contains(text(),'Test Tester')] and locatorType: xpath
+10/11/2018 02:57:58 PM - LoginPage - INFO: Element Found
+10/11/2018 02:57:58 PM - Status - INFO: ### VERIFICATION SUCCESSFUL :: + Login failed
+10/11/2018 02:57:58 PM - Status - ERROR: tests_validLogin ### TEST FAILED
+10/11/2018 02:58:48 PM - LoginPage - INFO: Element found with locator: body.index.hide-left-column.hide-right-column.lang_en:nth-child(2) div.header-container div.nav:nth-child(2) div.container div.row nav:nth-child(1) div.header_user_info:nth-child(1) > a.login and locatorType: css
+10/11/2018 02:58:49 PM - LoginPage - INFO: Clicked on element with locator: body.index.hide-left-column.hide-right-column.lang_en:nth-child(2) div.header-container div.nav:nth-child(2) div.container div.row nav:nth-child(1) div.header_user_info:nth-child(1) > a.login locatorType: css
+10/11/2018 02:58:49 PM - LoginPage - INFO: Element found with locator: email and locatorType: id
+10/11/2018 02:58:49 PM - LoginPage - INFO: Sent data on element with locator: email locatorType: id
+10/11/2018 02:58:49 PM - LoginPage - INFO: Element found with locator: passwd and locatorType: id
+10/11/2018 02:58:49 PM - LoginPage - INFO: Sent data on element with locator: passwd locatorType: id
+10/11/2018 02:58:49 PM - LoginPage - INFO: Element found with locator: SubmitLogin and locatorType: id
+10/11/2018 02:58:50 PM - LoginPage - INFO: Clicked on element with locator: SubmitLogin locatorType: id
+10/11/2018 02:58:50 PM - Status - ERROR: ### VERIFICATION FAILED :: + Title is incorrect
+10/11/2018 02:58:50 PM - LoginPage - INFO: Element found with locator: //span[contains(text(),'Test Tester')] and locatorType: xpath
+10/11/2018 02:58:50 PM - LoginPage - INFO: Element Found
+10/11/2018 02:58:50 PM - Status - INFO: ### VERIFICATION SUCCESSFUL :: + Login failed
+10/11/2018 02:58:50 PM - Status - INFO: tests_validLogin #### TEST PASSED
+10/11/2018 03:00:17 PM - LoginPage - INFO: Element found with locator: body.index.hide-left-column.hide-right-column.lang_en:nth-child(2) div.header-container div.nav:nth-child(2) div.container div.row nav:nth-child(1) div.header_user_info:nth-child(1) > a.login and locatorType: css
+10/11/2018 03:00:18 PM - LoginPage - INFO: Clicked on element with locator: body.index.hide-left-column.hide-right-column.lang_en:nth-child(2) div.header-container div.nav:nth-child(2) div.container div.row nav:nth-child(1) div.header_user_info:nth-child(1) > a.login locatorType: css
+10/11/2018 03:00:18 PM - LoginPage - INFO: Element found with locator: email and locatorType: id
+10/11/2018 03:00:18 PM - LoginPage - INFO: Sent data on element with locator: email locatorType: id
+10/11/2018 03:00:18 PM - LoginPage - INFO: Element found with locator: passwd and locatorType: id
+10/11/2018 03:00:18 PM - LoginPage - INFO: Sent data on element with locator: passwd locatorType: id
+10/11/2018 03:00:18 PM - LoginPage - INFO: Element found with locator: SubmitLogin and locatorType: id
+10/11/2018 03:00:19 PM - LoginPage - INFO: Clicked on element with locator: SubmitLogin locatorType: id
+10/11/2018 03:00:19 PM - Status - ERROR: ### VERIFICATION FAILED :: + Title is incorrect
+10/11/2018 03:00:19 PM - LoginPage - INFO: Element found with locator: //span[contains(text(),'Test Tester')] and locatorType: xpath
+10/11/2018 03:00:19 PM - LoginPage - INFO: Element Found
+10/11/2018 03:00:19 PM - Status - INFO: ### VERIFICATION SUCCESSFUL :: + Login failed
+10/11/2018 03:00:19 PM - Status - ERROR: tests_validLogin ### TEST FAILED
+10/11/2018 03:02:02 PM - LoginPage - INFO: Element found with locator: body.index.hide-left-column.hide-right-column.lang_en:nth-child(2) div.header-container div.nav:nth-child(2) div.container div.row nav:nth-child(1) div.header_user_info:nth-child(1) > a.login and locatorType: css
+10/11/2018 03:02:03 PM - LoginPage - INFO: Clicked on element with locator: body.index.hide-left-column.hide-right-column.lang_en:nth-child(2) div.header-container div.nav:nth-child(2) div.container div.row nav:nth-child(1) div.header_user_info:nth-child(1) > a.login locatorType: css
+10/11/2018 03:02:03 PM - LoginPage - INFO: Element found with locator: email and locatorType: id
+10/11/2018 03:02:03 PM - LoginPage - INFO: Sent data on element with locator: email locatorType: id
+10/11/2018 03:02:03 PM - LoginPage - INFO: Element found with locator: passwd and locatorType: id
+10/11/2018 03:02:03 PM - LoginPage - INFO: Sent data on element with locator: passwd locatorType: id
+10/11/2018 03:02:03 PM - LoginPage - INFO: Element found with locator: SubmitLogin and locatorType: id
+10/11/2018 03:02:04 PM - LoginPage - INFO: Clicked on element with locator: SubmitLogin locatorType: id
+10/11/2018 03:02:04 PM - Status - ERROR: ### VERIFICATION FAILED :: + Title is incorrect
+10/11/2018 03:02:04 PM - LoginPage - INFO: Element found with locator: //span[contains(text(),'Test Tester')] and locatorType: xpath
+10/11/2018 03:02:04 PM - LoginPage - INFO: Element Found
+10/11/2018 03:02:04 PM - Status - INFO: ### VERIFICATION SUCCESSFUL :: + Login failed
+10/11/2018 03:02:04 PM - Status - INFO: tests_validLogin #### TEST PASSED
+10/11/2018 03:04:30 PM - LoginPage - INFO: Element found with locator: body.index.hide-left-column.hide-right-column.lang_en:nth-child(2) div.header-container div.nav:nth-child(2) div.container div.row nav:nth-child(1) div.header_user_info:nth-child(1) > a.login and locatorType: css
+10/11/2018 03:04:31 PM - LoginPage - INFO: Clicked on element with locator: body.index.hide-left-column.hide-right-column.lang_en:nth-child(2) div.header-container div.nav:nth-child(2) div.container div.row nav:nth-child(1) div.header_user_info:nth-child(1) > a.login locatorType: css
+10/11/2018 03:04:31 PM - LoginPage - INFO: Element found with locator: email and locatorType: id
+10/11/2018 03:04:31 PM - LoginPage - INFO: Sent data on element with locator: email locatorType: id
+10/11/2018 03:04:31 PM - LoginPage - INFO: Element found with locator: passwd and locatorType: id
+10/11/2018 03:04:31 PM - LoginPage - INFO: Sent data on element with locator: passwd locatorType: id
+10/11/2018 03:04:31 PM - LoginPage - INFO: Element found with locator: SubmitLogin and locatorType: id
+10/11/2018 03:04:32 PM - LoginPage - INFO: Clicked on element with locator: SubmitLogin locatorType: id
+10/11/2018 03:04:32 PM - Status - ERROR: ### VERIFICATION FAILED :: + Title is incorrect
+10/11/2018 03:04:32 PM - LoginPage - INFO: Element found with locator: //span[contains(text(),'Test Tester')] and locatorType: xpath
+10/11/2018 03:04:32 PM - LoginPage - INFO: Element Found
+10/11/2018 03:04:32 PM - Status - INFO: ### VERIFICATION SUCCESSFUL :: + Login failed
+10/11/2018 03:04:32 PM - Status - ERROR: tests_validLogin ### TEST FAILED
+10/11/2018 03:06:15 PM - LoginPage - INFO: Element found with locator: body.index.hide-left-column.hide-right-column.lang_en:nth-child(2) div.header-container div.nav:nth-child(2) div.container div.row nav:nth-child(1) div.header_user_info:nth-child(1) > a.login and locatorType: css
+10/11/2018 03:06:16 PM - LoginPage - INFO: Clicked on element with locator: body.index.hide-left-column.hide-right-column.lang_en:nth-child(2) div.header-container div.nav:nth-child(2) div.container div.row nav:nth-child(1) div.header_user_info:nth-child(1) > a.login locatorType: css
+10/11/2018 03:06:16 PM - LoginPage - INFO: Element found with locator: email and locatorType: id
+10/11/2018 03:06:16 PM - LoginPage - INFO: Sent data on element with locator: email locatorType: id
+10/11/2018 03:06:16 PM - LoginPage - INFO: Element found with locator: passwd and locatorType: id
+10/11/2018 03:06:16 PM - LoginPage - INFO: Sent data on element with locator: passwd locatorType: id
+10/11/2018 03:06:16 PM - LoginPage - INFO: Element found with locator: SubmitLogin and locatorType: id
+10/11/2018 03:06:17 PM - LoginPage - INFO: Clicked on element with locator: SubmitLogin locatorType: id
+10/11/2018 03:06:17 PM - Status - ERROR: ### VERIFICATION FAILED :: + Title is incorrect
+10/11/2018 03:06:17 PM - LoginPage - INFO: Element found with locator: //span[contains(text(),'Test Tester')] and locatorType: xpath
+10/11/2018 03:06:17 PM - LoginPage - INFO: Element Found
+10/11/2018 03:06:17 PM - Status - INFO: ### VERIFICATION SUCCESSFUL :: + Login failed
+10/11/2018 03:06:17 PM - Status - INFO: tests_validLogin #### TEST PASSED
+10/11/2018 03:10:21 PM - LoginPage - INFO: Element found with locator: body.index.hide-left-column.hide-right-column.lang_en:nth-child(2) div.header-container div.nav:nth-child(2) div.container div.row nav:nth-child(1) div.header_user_info:nth-child(1) > a.login and locatorType: css
+10/11/2018 03:10:22 PM - LoginPage - INFO: Clicked on element with locator: body.index.hide-left-column.hide-right-column.lang_en:nth-child(2) div.header-container div.nav:nth-child(2) div.container div.row nav:nth-child(1) div.header_user_info:nth-child(1) > a.login locatorType: css
+10/11/2018 03:10:22 PM - LoginPage - INFO: Element found with locator: email and locatorType: id
+10/11/2018 03:10:22 PM - LoginPage - INFO: Sent data on element with locator: email locatorType: id
+10/11/2018 03:10:22 PM - LoginPage - INFO: Element found with locator: passwd and locatorType: id
+10/11/2018 03:10:22 PM - LoginPage - INFO: Sent data on element with locator: passwd locatorType: id
+10/11/2018 03:10:22 PM - LoginPage - INFO: Element found with locator: SubmitLogin and locatorType: id
+10/11/2018 03:10:23 PM - LoginPage - INFO: Clicked on element with locator: SubmitLogin locatorType: id
+10/11/2018 03:10:23 PM - Status - ERROR: ### VERIFICATION FAILED :: + Title Verification
+10/11/2018 03:10:23 PM - LoginPage - INFO: Element found with locator: //span[contains(text(),'Test Tester')] and locatorType: xpath
+10/11/2018 03:10:23 PM - LoginPage - INFO: Element Found
+10/11/2018 03:10:23 PM - Status - INFO: ### VERIFICATION SUCCESSFUL :: + Login Verification
+10/11/2018 03:10:23 PM - Status - INFO: tests_validLogin ### TEST SUCCESSFUL
+10/11/2018 03:14:32 PM - LoginPage - INFO: Element found with locator: body.index.hide-left-column.hide-right-column.lang_en:nth-child(2) div.header-container div.nav:nth-child(2) div.container div.row nav:nth-child(1) div.header_user_info:nth-child(1) > a.login and locatorType: css
+10/11/2018 03:14:33 PM - LoginPage - INFO: Clicked on element with locator: body.index.hide-left-column.hide-right-column.lang_en:nth-child(2) div.header-container div.nav:nth-child(2) div.container div.row nav:nth-child(1) div.header_user_info:nth-child(1) > a.login locatorType: css
+10/11/2018 03:14:33 PM - LoginPage - INFO: Element found with locator: email and locatorType: id
+10/11/2018 03:14:33 PM - LoginPage - INFO: Sent data on element with locator: email locatorType: id
+10/11/2018 03:14:33 PM - LoginPage - INFO: Element found with locator: passwd and locatorType: id
+10/11/2018 03:14:33 PM - LoginPage - INFO: Sent data on element with locator: passwd locatorType: id
+10/11/2018 03:14:33 PM - LoginPage - INFO: Element found with locator: SubmitLogin and locatorType: id
+10/11/2018 03:14:34 PM - LoginPage - INFO: Clicked on element with locator: SubmitLogin locatorType: id
+10/11/2018 03:14:34 PM - Status - ERROR: ### VERIFICATION FAILED :: + Title Verification
+10/11/2018 03:14:34 PM - LoginPage - INFO: Element found with locator: //span[contains(text(),'Test Tester')] and locatorType: xpath
+10/11/2018 03:14:34 PM - LoginPage - INFO: Element Found
+10/11/2018 03:14:34 PM - Status - INFO: ### VERIFICATION SUCCESSFUL :: + Login Verification
+10/11/2018 03:14:34 PM - Status - ERROR: tests_validLogin ### TEST FAILED
+10/11/2018 03:18:07 PM - LoginPage - INFO: Element found with locator: body.index.hide-left-column.hide-right-column.lang_en:nth-child(2) div.header-container div.nav:nth-child(2) div.container div.row nav:nth-child(1) div.header_user_info:nth-child(1) > a.login and locatorType: css
+10/11/2018 03:18:07 PM - LoginPage - INFO: Clicked on element with locator: body.index.hide-left-column.hide-right-column.lang_en:nth-child(2) div.header-container div.nav:nth-child(2) div.container div.row nav:nth-child(1) div.header_user_info:nth-child(1) > a.login locatorType: css
+10/11/2018 03:18:07 PM - LoginPage - INFO: Element found with locator: email and locatorType: id
+10/11/2018 03:18:08 PM - LoginPage - INFO: Sent data on element with locator: email locatorType: id
+10/11/2018 03:18:08 PM - LoginPage - INFO: Element found with locator: passwd and locatorType: id
+10/11/2018 03:18:08 PM - LoginPage - INFO: Sent data on element with locator: passwd locatorType: id
+10/11/2018 03:18:08 PM - LoginPage - INFO: Element found with locator: SubmitLogin and locatorType: id
+10/11/2018 03:18:09 PM - LoginPage - INFO: Clicked on element with locator: SubmitLogin locatorType: id
+10/11/2018 03:18:09 PM - Status - ERROR: ### VERIFICATION FAILED :: + Title Verification
+10/11/2018 03:18:09 PM - LoginPage - INFO: Element found with locator: //span[contains(text(),'Test Tester')] and locatorType: xpath
+10/11/2018 03:18:09 PM - LoginPage - INFO: Element Found
+10/11/2018 03:18:09 PM - Status - INFO: ### VERIFICATION SUCCESSFUL :: + Login Verification
+10/11/2018 03:18:09 PM - Status - ERROR: tests_validLogin ### TEST FAILED
+10/11/2018 03:18:47 PM - LoginPage - INFO: Element found with locator: body.index.hide-left-column.hide-right-column.lang_en:nth-child(2) div.header-container div.nav:nth-child(2) div.container div.row nav:nth-child(1) div.header_user_info:nth-child(1) > a.login and locatorType: css
+10/11/2018 03:18:48 PM - LoginPage - INFO: Clicked on element with locator: body.index.hide-left-column.hide-right-column.lang_en:nth-child(2) div.header-container div.nav:nth-child(2) div.container div.row nav:nth-child(1) div.header_user_info:nth-child(1) > a.login locatorType: css
+10/11/2018 03:18:48 PM - LoginPage - INFO: Element found with locator: email and locatorType: id
+10/11/2018 03:18:48 PM - LoginPage - INFO: Sent data on element with locator: email locatorType: id
+10/11/2018 03:18:48 PM - LoginPage - INFO: Element found with locator: passwd and locatorType: id
+10/11/2018 03:18:48 PM - LoginPage - INFO: Sent data on element with locator: passwd locatorType: id
+10/11/2018 03:18:48 PM - LoginPage - INFO: Element found with locator: SubmitLogin and locatorType: id
+10/11/2018 03:18:49 PM - LoginPage - INFO: Clicked on element with locator: SubmitLogin locatorType: id
+10/11/2018 03:18:49 PM - Status - ERROR: ### VERIFICATION FAILED :: + Title Verification
+10/11/2018 03:18:49 PM - LoginPage - INFO: Element found with locator: //span[contains(text(),'Test Tester')] and locatorType: xpath
+10/11/2018 03:18:49 PM - LoginPage - INFO: Element Found
+10/11/2018 03:18:49 PM - Status - INFO: ### VERIFICATION SUCCESSFUL :: + Login Verification
+10/11/2018 03:18:49 PM - Status - INFO: tests_validLogin ### TEST SUCCESSFUL
+10/16/2018 08:31:21 PM - LoginPage - INFO: Element found with locator: body.index.hide-left-column.hide-right-column.lang_en:nth-child(2) div.header-container div.nav:nth-child(2) div.container div.row nav:nth-child(1) div.header_user_info:nth-child(1) > a.login and locatorType: css
+10/16/2018 08:31:23 PM - LoginPage - INFO: Clicked on element with locator: body.index.hide-left-column.hide-right-column.lang_en:nth-child(2) div.header-container div.nav:nth-child(2) div.container div.row nav:nth-child(1) div.header_user_info:nth-child(1) > a.login locatorType: css
+10/16/2018 08:31:23 PM - LoginPage - INFO: Element found with locator: email and locatorType: id
+10/16/2018 08:31:23 PM - LoginPage - INFO: Sent data on element with locator: email locatorType: id
+10/16/2018 08:31:23 PM - LoginPage - INFO: Element found with locator: passwd and locatorType: id
+10/16/2018 08:31:23 PM - LoginPage - INFO: Sent data on element with locator: passwd locatorType: id
+10/16/2018 08:31:23 PM - LoginPage - INFO: Element found with locator: SubmitLogin and locatorType: id
+10/16/2018 08:31:26 PM - LoginPage - INFO: Clicked on element with locator: SubmitLogin locatorType: id
+10/16/2018 08:31:26 PM - Status - ERROR: ### VERIFICATION FAILED :: + Title Verification
+10/16/2018 08:31:26 PM - LoginPage - INFO: Element found with locator: //span[contains(text(),'Test Tester')] and locatorType: xpath
+10/16/2018 08:31:26 PM - LoginPage - INFO: Element Found
+10/16/2018 08:31:26 PM - Status - INFO: ### VERIFICATION SUCCESSFUL :: + Login Verification
+10/16/2018 08:31:26 PM - Status - INFO: tests_validLogin ### TEST SUCCESSFUL
+10/17/2018 03:50:15 PM - LoginPage - INFO: Element found with locator: body.index.hide-left-column.hide-right-column.lang_en:nth-child(2) div.header-container div.nav:nth-child(2) div.container div.row nav:nth-child(1) div.header_user_info:nth-child(1) > a.login and locatorType: css
+10/17/2018 03:50:16 PM - LoginPage - INFO: Clicked on element with locator: body.index.hide-left-column.hide-right-column.lang_en:nth-child(2) div.header-container div.nav:nth-child(2) div.container div.row nav:nth-child(1) div.header_user_info:nth-child(1) > a.login locatorType: css
+10/17/2018 03:50:16 PM - LoginPage - INFO: Element found with locator: email and locatorType: id
+10/17/2018 03:50:16 PM - LoginPage - INFO: Sent data on element with locator: email locatorType: id
+10/17/2018 03:50:16 PM - LoginPage - INFO: Element found with locator: passwd and locatorType: id
+10/17/2018 03:50:16 PM - LoginPage - INFO: Sent data on element with locator: passwd locatorType: id
+10/17/2018 03:50:16 PM - LoginPage - INFO: Element found with locator: SubmitLogin and locatorType: id
+10/17/2018 03:50:18 PM - LoginPage - INFO: Clicked on element with locator: SubmitLogin locatorType: id
+10/17/2018 03:50:18 PM - Status - ERROR: ### VERIFICATION FAILED :: + Title Verification
+10/17/2018 03:50:18 PM - LoginPage - INFO: Element found with locator: //span[contains(text(),'Test Tester')] and locatorType: xpath
+10/17/2018 03:50:18 PM - LoginPage - INFO: Element Found
+10/17/2018 03:50:18 PM - Status - INFO: ### VERIFICATION SUCCESSFUL :: + Login Verification
+10/17/2018 03:50:18 PM - Status - INFO: tests_validLogin ### TEST SUCCESSFUL
