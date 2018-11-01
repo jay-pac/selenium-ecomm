@@ -30,10 +30,10 @@ class Status(SeleniumDriver):
                     self.resultList.append("PASS")
                     self.log.info("### VERIFICATION SUCCESSFUL :: + " + resultMessage)
                 else:
-                    self.resultList.append("FAILED")
+                    self.resultList.append("FAIL")
                     self.log.error("### VERIFICATION FAILED :: + " + resultMessage)
         except:
-            self.resultList.append('FAILED')
+            self.resultList.append('FAIL')
             self.log.error('### Exception Occurred !!!' + resultMessage)
 
     def mark(self, result, resultMessage):
