@@ -10,6 +10,7 @@ Example:
 import utilities.custom_logger as cl
 import logging
 from base.selenium_driver import SeleniumDriver
+from traceback import print_stack
 
 
 class Status(SeleniumDriver):
@@ -32,9 +33,12 @@ class Status(SeleniumDriver):
                 else:
                     self.resultList.append("FAIL")
                     self.log.error("### VERIFICATION FAILED :: + " + resultMessage)
+                    self.screenShot(resultMessage)
         except:
             self.resultList.append('FAIL')
             self.log.error('### Exception Occurred !!!' + resultMessage)
+            self.screenShot(resultMessage)
+            print_stack()
 
     def mark(self, result, resultMessage):
         """
