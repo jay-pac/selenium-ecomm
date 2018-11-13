@@ -48,6 +48,10 @@ class WebDriverFactory():
         elif self.browser == "chrome":
             # Set chrome driver
             driver = webdriver.Chrome()
+        elif self.browser == "safari":
+            driver = webdriver.Safari()
+        elif self.browser == "edge":
+            driver = webdriver.Edge()
         else:
             driver = webdriver.Chrome()
         # Setting Driver Implicit Time out for An Element
