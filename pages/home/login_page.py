@@ -44,11 +44,14 @@ class LoginPage(SeleniumDriver):
         return result
 
     def verifyFailedLogin(self):
-        result = self.isElementPresent("//li[contains(text(),'Invalid email address.')]", locatorType="xpath")
-        return result
+        result = self.isElementPresent("//p[contains(text(),'There is 1 error')]", locatorType="xpath")
+        if result is True:
+            return True
+        else:
+            return False
 
     def verifyTitle(self):
-        if "My Account" in self.getTitle():
+        if "My account - My Store" in self.getTitle():
             return True
         else:
             return False
