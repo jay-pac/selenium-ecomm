@@ -14,6 +14,12 @@ class LoginTests(unittest.TestCase):
         self.ts = Status(self.driver)
 
     @pytest.mark.run(order=1)
+    def tests_invalidLogin(self):
+        self.lg.login()
+        result = self.lg.verifyFailedLogin()
+        self.ts.markFinal("tests_invalidLogin", result, "Invalid Login Verification")
+
+    @pytest.mark.run(order=2)
     def tests_validLogin(self):
         self.lg.login('qatesteratx@gmail.com', 'test1234')
         result1 = self.lg.verifyTitle()
@@ -21,8 +27,4 @@ class LoginTests(unittest.TestCase):
         result2 = self.lg.verifySuccessfulLogin()
         self.ts.markFinal("tests_validLogin", result2, "Login Verification")
 
-    # @pytest.mark.run(order=1)
-    # def tests_invalidLogin(self):
-    #     self.lg.login()
-    #     result = self.lg.verifyFailedLogin()
-    #     assert result == True
+
