@@ -12,7 +12,7 @@ class LoginPage(SeleniumDriver):
         self.driver = driver
 
     # Locators
-    _signin_link = 'body.index.hide-left-column.hide-right-column.lang_en:nth-child(2) div.header-container div.nav:nth-child(2) div.container div.row nav:nth-child(1) div.header_user_info:nth-child(1) > a.login'
+    _signin_link = '.nav> div > div > nav > div > a'
     _email_field = 'email'
     _pwd_field = 'passwd'
     _login_button = 'SubmitLogin'
